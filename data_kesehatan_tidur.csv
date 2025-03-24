@@ -1,0 +1,16 @@
+Jenis Kelamin;Durasi Tidur;Kafein Harian;Tekanan Darah;Waktu Layar;BMI;Sering Telat Bangun;Gangguan Tidur
+Laki-laki;6;1;113;2;33;Ya;Tidak
+Perempuan;8;;119;6;19;Ya;Ya
+Perempuan;7;3;110;6;28;Tidak;Ya
+Laki-laki;8;3;125;5;35;Ya;Ya
+Perempuan;;2;99;9;27;Tidak;Ya
+Perempuan;7;4;;3;34;Tidak;Tidak
+Laki-laki;9;4;;5;22;;Tidak
+Perempuan;7;0;134;5;31;Ya;Tidak
+Perempuan;;0;116;3;27;Ya;Tidak
+Laki-laki;7;3;139;6;30;Ya;Ya
+Laki-laki;;2;120;;19;Tidak;Ya
+Laki-laki;8;1;101;6;21;Ya;Ya
+Perempuan;7;3;131;3;20;Ya;Tidak
+Laki-laki;6;;107;5;;Ya;Ya
+Laki-laki;9;3;;2;32;Tidak;Tidak
